@@ -56,8 +56,8 @@ Attach the component in your config file:
 - array `options` - Image save options
 
 > placeholder type
-> 1. js - holder.js
-> 2. url - get placeholder by url
+- 1. js - holder.js
+- 2. url - get placeholder by url
 
 ## Using
 
